@@ -17,9 +17,9 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
 
-  <a href="https://github.com/erickjonatthan" target="_blank"><img src="https://img.shields.io/badge/Github-3cb371?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/erickjonatthan"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ericksantos"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://github.com/erickjonatthan" target="_blank"><img src="https://img.shields.io/badge/Github-1e74ff?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/erickjonatthan"><img src="https://img.shields.io/badge/-Instagram-1e74ff?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ericksantos"><img src="https://img.shields.io/badge/-LinkedIn-1e74ff?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div> 
 
@@ -35,8 +35,8 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=erickjonatthan&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickjonatthan&hide=jupyter%20notebook&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erickjonatthan&bg_color=2e2e2e&title_color=d0cccc&text_color=1e74ff&icon_color=1e74ff&border_color=d0cccc" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickjonatthan&hide=jupyter%20notebook&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=1e74ff&icon_color=1e74ff&border_color=d0cccc" height="180em"/>
 
 </div>
 
