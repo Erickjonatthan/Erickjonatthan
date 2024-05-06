@@ -57,9 +57,9 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 ## Meus Principais Repositorios
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=PaleBlueDot-DuneDivers&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/PaleBlueDot-DuneDivers)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=lembrete_remedio_server&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/lembrete_remedio_server)
+[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=PaleBlueDot-DuneDivers&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/PaleBlueDot-DuneDivers)
+[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=lembrete_remedio_server&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/lembrete_remedio_server)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=certification_nlw&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/certification_nlw)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=Werewolf-Mystery&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/Werewolf-Mystery)
+[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=certification_nlw&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/certification_nlw)
+[![Repo Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=Werewolf-Mystery&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/Werewolf-Mystery)
 
