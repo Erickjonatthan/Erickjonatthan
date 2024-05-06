@@ -9,9 +9,20 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 ## Sobre mim
 
-- 🎯 Meu objetivo é me tornar um **Desenvolvedor Backend Sênior** e trabalhar somente com o ecossitema **Spring**;
+- 🎯 Tenho como objetivo ser um profissional na área de tecnologia;
 - 🌱 Irei me formar em Dezembro de 2026 em **Engenharia da computação na UFRPE**;
 - 👯 Estou sempre procurando colaborar em projetos Freelance;
+
+## Linguagens de programação
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-FFF?style=for-the-badge&logo=php&logoColor=4F5B93)
+
+## Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=015F8B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor==015F8B)
+
+
 
 - 📫 Como chegar até mim: 
 
@@ -31,6 +42,10 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 </div>
 
+## Menções em competições
+
+> [Menção Honrosa na competiçao drivendata com a equipe 'Dune Divers' - 2024](https://www.drivendata.org/competitions/256/)
+
 ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
 
 <div align="center">
@@ -40,4 +55,11 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 </div>
 
+## Meus Principais Repositorios
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=PaleBlueDot-DuneDivers&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/PaleBlueDot-DuneDivers)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=lembrete_remedio_server&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/lembrete_remedio_server)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=certification_nlw&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/certification_nlw)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Erickjonatthan&repo=Werewolf-Mystery&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E74FF&text_color=FFF)](https://github.com/Erickjonatthan/Werewolf-Mystery)
 
