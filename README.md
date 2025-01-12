@@ -27,6 +27,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 ## Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=015F8B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor==015F8B)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor==015F8B)
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor==015F8B)
 
 
